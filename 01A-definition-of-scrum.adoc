@@ -141,7 +141,7 @@ There is a big push in the Scrum community to gain acceptance outside of softwar
 Which of the following statements most accurately reflects the definition of Scrum?
 
 * [ ] Scrum is a software development methodology
-* [ ] Scrum is an Agile process for teams and organizations to following
+* [ ] Scrum is an Agile process for teams and organizations to follow
 * [ ] Scrum is a lightweight framework to help teams tackle complex problems
 * [ ] Scrum is a lightweight framework to help teams and organizations build software
 
